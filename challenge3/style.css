@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    max-width: 100%;
+    background-color: #23424A;
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 70px;
+}
+h1{
+    font-style: Roboto;  
+}
+#heading{
+    font-size: 43px;
+}
+.mincon{
+    padding: 0px;
+    width: 50%;
+}
+p{
+    font-size: 20px;
+}
+button{
+    background-color: #38CFD9;
+    color: black;
+    border-radius: 35px;
+    padding: 15px 30px;
+    font-weight: bolder;
+   
+}
+button:hover{
+    cursor: pointer;
+}
